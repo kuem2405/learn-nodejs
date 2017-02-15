@@ -1,0 +1,17 @@
+{
+  "name": "nodejs.org",
+  "version": "1.0.0",
+  "description": "day la bai hoc node js tren nodejs.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Loi script\"; exit 1;",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs.org",
+    "node"
+  ],
+  "author": "KhaNguyen",
+  "license": "ISC"
+}

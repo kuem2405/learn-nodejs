@@ -1,0 +1,12 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "\"Đây là demo nodejs trên server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Có lỗi xảy ra\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kha Nguyễn",
+  "license": "ISC"
+}

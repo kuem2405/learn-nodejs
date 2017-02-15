@@ -1,0 +1,14 @@
+{
+  "name": "learn_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Có lỗi xảy ra\"; exit;"
+  },
+  "author": "KhaNguyen",
+  "license": "ISC",
+  "dependencies": {
+    "node-persist": "^2.0.8"
+  }
+}
